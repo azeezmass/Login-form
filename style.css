@@ -8,21 +8,21 @@
 }
 .container {
   background-color: #3f70f3;
-  height: 1000px;
+  height: 100vh;
   width: 0 auto;
 }
 .text h1 {
   color: white;
   font-size: 101px;
-  padding-left: 783px;
-  padding-top: 201px;
+  padding-left: 700px;
+  padding-top: 240px;
   line-height: 1.2;
 }
 .form {
   width: 400px;
   background-color: white;
   margin-left: 284px;
-  margin-top: -475px;
+  margin-top: -340px;
   padding: 40px 30px 40px 30px;
   border-radius: 5px;
 }
